@@ -1,2 +1,3 @@
 # lp que vende lps
- teste
+
+landing page simples da PaladinoLTDA, meu branding pessoal de freelancer front-end especializado na criação de páginas que convertem.
